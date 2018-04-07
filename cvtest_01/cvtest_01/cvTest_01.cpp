@@ -1,4 +1,6 @@
 #if talse
+// git_2   
+
 
 //インクルードファイル指定
 #include <opencv2/opencv.hpp>
